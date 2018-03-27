@@ -25,7 +25,7 @@ pipeline {
             steps {
                 input ('Are you sure you want to deploy ?')
                 // if you set wait to true, this will ask the current job to wait till the deploy job is finished!
-                # build job: 'deploy-cats-demo-pipeline', wait: false
+                // build job: 'deploy-cats-demo-pipeline', wait: false
                 sh ' echo "building and deploying" '
                 
             }
