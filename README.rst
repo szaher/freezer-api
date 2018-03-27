@@ -1,5 +1,5 @@
 ========================
-Team and repository tags
+Team and repository tagez
 ========================
 
 .. image:: https://governance.openstack.org/tc/badges/freezer-api.svg
